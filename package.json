@@ -1,0 +1,25 @@
+{
+  "name": "gitstuff",
+  "version": "1.0.0",
+  "description": "Github Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac-Stomboly/gittingPractice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Isaac Stomboly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaac-Stomboly/gittingPractice/issues"
+  },
+  "homepage": "https://github.com/Isaac-Stomboly/gittingPractice#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
